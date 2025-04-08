@@ -15,7 +15,7 @@ Leia o enunciado completo no Canvas.
 - Nome: Cauã Moreira Martins
 - Matricula: 00878733-
 - Proposta de projeto escolhida: Portal de Notícias
-- Breve descrição sobre seu projeto: Criar um portal de notícias moderno e responsivo
+- Breve descrição sobre seu projeto: Criar um portal de notícias moderno e responsivo. 
 
 ## Print da versão responsiva com CSS puro
 
