@@ -19,10 +19,10 @@ Leia o enunciado completo no Canvas.
 
 ## Print da versão responsiva com CSS puro
 
-![alt text](<../home page 1.png>)
+![alt text](<public/home page 1.png>)
 
-![alt text](<../home page 2.png>)
+![alt text](<public/home page 2.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-![alt text](<../home page bootstrap.png>)
+![alt text](<public/home page bootstrap.png>)
