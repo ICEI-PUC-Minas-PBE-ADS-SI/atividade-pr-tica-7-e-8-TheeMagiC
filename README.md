@@ -12,15 +12,17 @@ Leia o enunciado completo no Canvas.
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Cauã Moreira Martins
+- Matricula: 00878733-
+- Proposta de projeto escolhida: Portal de Notícias
+- Breve descrição sobre seu projeto: Criar um portal de notícias moderno e responsivo
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<../home page 1.png>)
+
+![alt text](<../home page 2.png>)
 
 ## Print da versão responsiva com Bootstrap
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](<../home page bootstrap.png>)
