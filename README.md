@@ -17,12 +17,10 @@ Leia o enunciado completo no Canvas.
 - Proposta de projeto escolhida: Portal de Notícias
 - Breve descrição sobre seu projeto: Criar um portal de notícias moderno e responsivo. 
 
-## Print da versão responsiva com CSS puro
-
-![alt text](<public/home page 1.png>)
-
-![alt text](<public/home page 2.png>)
-
-## Print da versão responsiva com Bootstrap
+## Print home-page:
 
 ![alt text](<public/home page bootstrap.png>)
+
+## Print página de detalhes:
+
+![alt text](<public/print detalhes.png>)
